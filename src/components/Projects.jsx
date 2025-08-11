@@ -1,18 +1,19 @@
 const projects = [
     {
-        title: "React Portfolio",
-        description: "Personal developer portfolio built with React and Tailwind CSS.",
-        github: "https://github.com/milindpawar007/react-portfolio",
-        demo: "https://milindpawar007.github.io/react-portfolio",
-        tech: ["React", "Tailwind", "JavaScript"],
-    },
+        title: "Taj Palace – Luxury Hotel Booking Platform",
+        description: "A modern hotel booking web application for Taj Palace, featuring dynamic room availability, real-time pricing, and a responsive UI with an immersive user experience.",
+        github: "https://github.com/milindpawar007/taj-palace",
+        demo: "https://milind-taj-palace.netlify.app",
+        tech: ["React", "Next.js", "Tailwind CSS", "Framer Motion", "Node.js", "Express", "MongoDB", "REST API"],
+    }, ,
     {
-        title: "Weather App",
-        description: "Weather forecasting app using OpenWeatherMap API with search functionality.",
-        github: "https://github.com/milindpawar007/weather-app",
-        demo: "https://milind-weather.netlify.app",
-        tech: ["React", "API", "Netlify"],
+        title: "Fast React Pizza – Online Ordering Platform",
+        description: "A fully responsive pizza ordering application with real-time cart updates, customizable pizzas, and location-based delivery time estimates. Built as part of an advanced React course, optimized for performance and scalability.",
+        github: "https://github.com/milindpawar007/Udemy-React-2024/tree/main/fast-react-pizza",
+        demo: "https://fast-react-pizza-store.netlify.app", // Replace with your actual deployed link
+        tech: ["React", "Redux Toolkit", "React Router", "Tailwind CSS", "Vite", "JavaScript", "API Integration"],
     },
+    ,
 ];
 
 export default function Projects() {
