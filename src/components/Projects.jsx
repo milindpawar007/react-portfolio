@@ -2,7 +2,7 @@ const projects = [
     {
         title: "Taj Palace – Luxury Hotel Booking Platform",
         description: "A modern hotel booking web application for Taj Palace, featuring dynamic room availability, real-time pricing, and a responsive UI with an immersive user experience.",
-        github: "https://github.com/milindpawar007/taj-palace",
+        github: "https://github.com/milindpawar007/the-taj-palace",
         demo: "https://milind-taj-palace.netlify.app",
         tech: ["React", "Next.js", "Tailwind CSS", "Framer Motion", "Node.js", "Express", "MongoDB", "REST API"],
     }, ,
